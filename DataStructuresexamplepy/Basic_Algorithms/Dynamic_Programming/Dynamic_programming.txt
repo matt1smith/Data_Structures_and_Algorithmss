@@ -1,0 +1,3 @@
+technique used to solve recursive problems more efficiently
+memoization cuts down on the number of recursive calls that are required for a program
+
